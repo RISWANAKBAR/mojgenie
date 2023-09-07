@@ -1,0 +1,10 @@
+/* Apply this custom CSS to align the header and body columns */
+
+  /* Stylesheet.css or your component's styles */
+.odd-row {
+    background-color: #f2eeeebe; /* Set the background color for odd rows */
+  }
+  
+  .even-row {
+    background-color: #ffffff; /* Set the background color for even rows */
+  }
